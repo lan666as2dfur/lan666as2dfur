@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
+---
+⭐️ From [CyrisXD](https://github.com/hughbricre)
